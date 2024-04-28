@@ -800,7 +800,8 @@ int main() {
 }
 ```
 #### Output:
-![Screenshot 2024-04-28 232025](https://github.com/egirizkiyan/egi-anak-baik/assets/162097461/16977ce2-f604-4eed-b508-5fba38a3b09a)
+![Screenshot 2024-04-28 234008](https://github.com/egirizkiyan/egi-anak/assets/162097461/3a9698d4-17c5-45c9-b32d-4d71673b1c37)
+
 
 #### Full code Screenshot:
 ![Screenshot 2024-04-28 232025](https://github.com/egirizkiyan/egi-anak-baik/assets/162097461/16977ce2-f604-4eed-b508-5fba38a3b09a)
